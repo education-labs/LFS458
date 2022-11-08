@@ -1,8 +1,9 @@
 # Summary
-
+* [Intro](Intro.md)
 * [Chapter2](Chapter2.md)
   * [Exercise2.1](md/ex2.md)
 * [Chapter3](Chapter3.md)
+  * [Exercise3.1](md/ex3-1.md)
 * [Chapter4](Chapter4.md)
 * [Chapter5](Chapter5.md)
 * [Chapter6](Chapter6.md)
