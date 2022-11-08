@@ -4,6 +4,7 @@
 * [Chapter 2 - Basics of Kubernetes](ch/2.md)
   * [Exercise 2.1 - View  Online  Resources](ex/ex2-1.md)
 * [Chapter 3 - Installation and Conﬁguration](ch/3.md)
+  * [Exercise 3.0 - presetting](ex/ex3-0.md)
   * [Exercise 3.1 - Install  Kubernetes](ex/ex3-1.md)
   * [Exercise 3.2 - Grow  the  Cluster](ex/ex3-2.md)
   * [Exercise 3.3 - Finish  Cluster  Setup](ex/ex3-3.md)
