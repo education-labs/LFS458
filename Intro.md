@@ -1,5 +1,7 @@
 # LFS458 Lab
 
+과정명 : LFS458 - Kubernetes Administration
+
 강사 : 장원석 (wsjang@gkn.co.kr)
 
 교육기간 : 4일
