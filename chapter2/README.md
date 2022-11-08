@@ -1,2 +1,1 @@
-# Chapter2
-
+# Basics of Kubernetes
