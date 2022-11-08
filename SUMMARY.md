@@ -1,7 +1,6 @@
 # Summary
 
 * [Chapter2](https://github.com/education-labs/LFS458/blob/main/md/Chapter2.md)
-  * [Exercise2.1](ex2.md)
 * [Chapter3](Chapter3.md)
 * [Chapter4](Chapter4.md)
 * [Chapter5](Chapter5.md)
