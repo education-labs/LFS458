@@ -1,12 +1,13 @@
-# Summary
-* [Intro](Intro.md)
-* [Chapter2](Ch2.md)
+# Table of contents
+
+* [Intro](README.md)
+* [Chapter2](chapter2/README.md)
   * [Exercise2.1](md/ex2-1.md)
-* [Chapter3](Ch3.md)
+* [Chapter3](chapter3/README.md)
   * [Exercise3.1](md/ex3-1.md)
-* [Chapter4](Ch4.md)
-* [Chapter5](Ch5.md)
-* [Chapter6](Ch6.md)
-* [Chapter7](Ch7.md)
-* [Chapter8](Ch8.md)
-* [Chapter9](Ch9.md)
+* [Chapter4](chapter4.md)
+* [Chapter5](chapter5.md)
+* [Chapter6](chapter6.md)
+* [Chapter7](chapter7.md)
+* [Chapter8](chapter8.md)
+* [Chapter9](chapter9.md)
