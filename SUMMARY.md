@@ -1,6 +1,6 @@
 # Summary
 
-* [Chapter2](md/Chapter2.md)
+* [Chapter2](Chapter2.md)
 * [Chapter3](Chapter3.md)
 * [Chapter4](Chapter4.md)
 * [Chapter5](Chapter5.md)
