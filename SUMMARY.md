@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Chapter 2](ch/2.md)
-  * [Exercise 2.1](ex/ex2-1.md)
+* [Chapter 2 - Basics of Kubernetes](ch/2.md)
+  * [Exercise 2.1 - View  Online  Resources](ex/ex2-1.md)
 * [Chapter 3](ch/3.md)
   * [Exercise 3.1](ex/ex3-1.md)
   * [Exercise 3.2](ex/ex3-2.md)
