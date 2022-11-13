@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Chapter 2 - Basics of Kubernetes](ch/2.md)
-  * [Exercise 2.1 - View  Online  Resources](ex/ex2-1.md)
 * [Chapter 3 - Installation and Conﬁguration](ch/3.md)
   * [Exercise 3.0 - presetting](ex/ex3-0.md)
   * [Exercise 3.1 - Install  Kubernetes](ex/ex3-1.md)
@@ -54,5 +52,4 @@
   * [Exercise 15.2 - Authentication  and  Authorization](ex/ex15-2.md)
   * [Exercise 15.3 - Admission  Controllers](ex/ex15-3.md)
 * [Chapter 16 - High Availability](ch/16.md)
-  * [Exercise 16.1 - High  Availability  Steps](ex/ex16-1.md)
   * [Exercise 16.2 - Detailed  Steps](ex/ex16-2.md)
