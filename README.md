@@ -12,11 +12,16 @@
 > 실습코드에서 <> 에는 본인의 고유한 id, ip, 계정명을 입력합니다.
 > 이때 <> 기호는 삭제합니다.
 
-Course Registration 링크
+##
+
+>Course Registration 링크
+
 ```
 https://linux.thoughtindustries.com/redeem
 ```
-class Code
+
+>Class Code
+
 ```
 lfs458gkkorea20221114
 ```
